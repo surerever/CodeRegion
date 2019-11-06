@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CodeRegion/static/css/main.ba326f80.chunk.css",
+    "main.css": "/CodeRegion/static/css/main.d7d92100.chunk.css",
     "main.js": "/CodeRegion/static/js/main.d8b58e5b.chunk.js",
     "main.js.map": "/CodeRegion/static/js/main.d8b58e5b.chunk.js.map",
     "runtime-main.js": "/CodeRegion/static/js/runtime-main.c0bf989f.js",
@@ -9,9 +9,9 @@
     "static/js/2.4f37fbb5.chunk.js": "/CodeRegion/static/js/2.4f37fbb5.chunk.js",
     "static/js/2.4f37fbb5.chunk.js.map": "/CodeRegion/static/js/2.4f37fbb5.chunk.js.map",
     "index.html": "/CodeRegion/index.html",
-    "precache-manifest.55106c12ac8b0c3cadf885a11bb53574.js": "/CodeRegion/precache-manifest.55106c12ac8b0c3cadf885a11bb53574.js",
+    "precache-manifest.ce1b99851361d5daac2455b3fc78e139.js": "/CodeRegion/precache-manifest.ce1b99851361d5daac2455b3fc78e139.js",
     "service-worker.js": "/CodeRegion/service-worker.js",
     "static/css/2.27cde75d.chunk.css.map": "/CodeRegion/static/css/2.27cde75d.chunk.css.map",
-    "static/css/main.ba326f80.chunk.css.map": "/CodeRegion/static/css/main.ba326f80.chunk.css.map"
+    "static/css/main.d7d92100.chunk.css.map": "/CodeRegion/static/css/main.d7d92100.chunk.css.map"
   }
 }
