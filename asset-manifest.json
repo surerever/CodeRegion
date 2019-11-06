@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CodeRegion/static/css/main.957bf04d.chunk.css",
-    "main.js": "/CodeRegion/static/js/main.3bd24ffd.chunk.js",
-    "main.js.map": "/CodeRegion/static/js/main.3bd24ffd.chunk.js.map",
+    "main.css": "/CodeRegion/static/css/main.7a747522.chunk.css",
+    "main.js": "/CodeRegion/static/js/main.0ea69740.chunk.js",
+    "main.js.map": "/CodeRegion/static/js/main.0ea69740.chunk.js.map",
     "runtime-main.js": "/CodeRegion/static/js/runtime-main.c0bf989f.js",
     "runtime-main.js.map": "/CodeRegion/static/js/runtime-main.c0bf989f.js.map",
     "static/css/2.27cde75d.chunk.css": "/CodeRegion/static/css/2.27cde75d.chunk.css",
-    "static/js/2.83ee1bca.chunk.js": "/CodeRegion/static/js/2.83ee1bca.chunk.js",
-    "static/js/2.83ee1bca.chunk.js.map": "/CodeRegion/static/js/2.83ee1bca.chunk.js.map",
+    "static/js/2.4fbfcd59.chunk.js": "/CodeRegion/static/js/2.4fbfcd59.chunk.js",
+    "static/js/2.4fbfcd59.chunk.js.map": "/CodeRegion/static/js/2.4fbfcd59.chunk.js.map",
     "index.html": "/CodeRegion/index.html",
-    "precache-manifest.105c6d23f032146f6d02a03984fbe7f8.js": "/CodeRegion/precache-manifest.105c6d23f032146f6d02a03984fbe7f8.js",
+    "precache-manifest.3aba60c9ea06ecff2788d45736fe7b12.js": "/CodeRegion/precache-manifest.3aba60c9ea06ecff2788d45736fe7b12.js",
     "service-worker.js": "/CodeRegion/service-worker.js",
     "static/css/2.27cde75d.chunk.css.map": "/CodeRegion/static/css/2.27cde75d.chunk.css.map",
-    "static/css/main.957bf04d.chunk.css.map": "/CodeRegion/static/css/main.957bf04d.chunk.css.map"
+    "static/css/main.7a747522.chunk.css.map": "/CodeRegion/static/css/main.7a747522.chunk.css.map"
   }
 }
