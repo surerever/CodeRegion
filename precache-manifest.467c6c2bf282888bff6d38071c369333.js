@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8014685560748b5dc3c8e0068f43f138",
+    "revision": "8aca45a73f2f47ced208c5d91bcb7c79",
     "url": "/CodeRegion/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CodeRegion/static/css/2.0ca46490.chunk.css"
   },
   {
-    "revision": "7461b2b1d55ca7e24259",
+    "revision": "0b0c64e4410fe8c7a581",
     "url": "/CodeRegion/static/css/main.6a129020.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CodeRegion/static/js/2.51908409.chunk.js"
   },
   {
-    "revision": "7461b2b1d55ca7e24259",
-    "url": "/CodeRegion/static/js/main.6f5b38c0.chunk.js"
+    "revision": "0b0c64e4410fe8c7a581",
+    "url": "/CodeRegion/static/js/main.6aa078be.chunk.js"
   },
   {
     "revision": "036b10e6fc5e034fb95b",
