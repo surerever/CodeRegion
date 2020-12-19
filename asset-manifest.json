@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/CodeRegion/static/css/main.7b75afc9.chunk.css",
-    "main.js": "/CodeRegion/static/js/main.e5f8e46f.chunk.js",
+    "main.js": "/CodeRegion/static/js/main.6c8c9f0c.chunk.js",
     "runtime-main.js": "/CodeRegion/static/js/runtime-main.c0bf989f.js",
     "static/css/2.0ca46490.chunk.css": "/CodeRegion/static/css/2.0ca46490.chunk.css",
     "static/js/2.d231ced9.chunk.js": "/CodeRegion/static/js/2.d231ced9.chunk.js",
     "index.html": "/CodeRegion/index.html",
-    "precache-manifest.190c04393548d0e59070d583137de2e2.js": "/CodeRegion/precache-manifest.190c04393548d0e59070d583137de2e2.js",
+    "precache-manifest.f397f8a7d7b5fb94295f407c58349241.js": "/CodeRegion/precache-manifest.f397f8a7d7b5fb94295f407c58349241.js",
     "service-worker.js": "/CodeRegion/service-worker.js"
   }
 }
