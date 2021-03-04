@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aae291a1a7182818df5f9ff2de4b5ef1",
+    "revision": "08294eb2b16c59ee92adf47b68560aad",
     "url": "/CodeRegion/index.html"
   },
   {
